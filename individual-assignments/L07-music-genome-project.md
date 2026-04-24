@@ -16,6 +16,6 @@ This was one of the more enjoyable assignments of the semester because it connec
 
 ---
 
-[📄 Download Assignment](../files/individual/L07 - Music Genome Project.docx)
+[📄 Download Assignment](../files/individual/L07%20-%20Music%20Genome%20Project.docx)
 
 *[Back to Portfolio Home](../README.md)*

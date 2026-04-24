@@ -30,8 +30,8 @@ This assignment pushed me to think ahead about how I wanted to present my work b
 
 ---
 
-[📄 Download Assignment](../files/individual/L05 - Choose the Best OS.docx)
+[📄 Download Choose the Best OS](../files/individual/L05%20-%20Choose%20the%20Best%20OS.docx)
 
-[📄 Download Portfolio Milestone 1](../files/individual/L05 - Learning Portfolio Milestone 1.docx)
+[📄 Download Portfolio Milestone 1](../files/individual/L05%20-%20Learning%20Portfolio%20Milestone%201.docx)
 
 *[Back to Portfolio Home](../README.md)*

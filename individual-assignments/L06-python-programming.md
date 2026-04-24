@@ -16,6 +16,6 @@ This was one of the more personally relevant assignments since I was already tak
 
 ---
 
-[📄 Download Assignment](../files/individual/L06 - Python Programming.docx)
+[📄 Download Assignment](../files/individual/L06%20-%20Python%20Programming.docx)
 
 *[Back to Portfolio Home](../README.md)*

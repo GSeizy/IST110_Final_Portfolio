@@ -16,6 +16,6 @@ This was one of the first assignments of the semester and it set a good tone for
 
 ---
 
-[📄 Download Assignment](../files/group/L01 Group 4 - Treasure Hunt.docx)
+[📄 Download Assignment](../files/group/L01%20Group%204%20-%20Treasure%20Hunt.docx)
 
 *[Back to Portfolio Home](../README.md)*

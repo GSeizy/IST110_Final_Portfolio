@@ -16,6 +16,6 @@ JavaScript was one of the first languages I learned in IST 250, so revisiting it
 
 ---
 
-[📄 Download Assignment](../files/individual/L09 - JavaScript.docx)
+[📄 Download Assignment](../files/individual/L09%20-%20JavaScript.docx)
 
 *[Back to Portfolio Home](../README.md)*

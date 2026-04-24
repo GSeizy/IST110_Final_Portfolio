@@ -16,6 +16,6 @@ Writing an argumentative essay on cybercrime felt relevant in a way that a lot o
 
 ---
 
-[📄 Download Assignment](../files/individual/L12 - Cybercrime Essay.docx)
+[📄 Download Assignment](../files/individual/L12%20-%20Cybercrime%20Essay.docx)
 
 *[Back to Portfolio Home](../README.md)*

@@ -16,6 +16,6 @@ Coming into this course from IST 250 where I had already built full websites, th
 
 ---
 
-[📄 Download Assignment](../files/individual/L09 - HTML.docx)
+[📄 Download Assignment](../files/individual/L09%20-%20HTML.docx)
 
 *[Back to Portfolio Home](../README.md)*

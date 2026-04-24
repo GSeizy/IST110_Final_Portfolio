@@ -18,6 +18,6 @@ This assignment gave me a new appreciation for how much technology is quietly ru
 
 ---
 
-[📄 Download Assignment](../files/individual/L13 Enterprise Technology.docx)
+[📄 Download Assignment](../files/individual/L13%20Enterprise%20Technology.docx)
 
 *[Back to Portfolio Home](../README.md)*

@@ -16,6 +16,6 @@ This assignment was genuinely eye-opening in a way I did not fully expect. I kne
 
 ---
 
-[📄 Download Assignment](../files/individual/L11 - What do companies know about you.docx)
+[📄 Download Assignment](../files/individual/L11%20-%20What%20do%20companies%20know%20about%20you.docx)
 
 *[Back to Portfolio Home](../README.md)*

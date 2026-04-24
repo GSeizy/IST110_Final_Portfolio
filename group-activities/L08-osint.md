@@ -21,4 +21,8 @@ OSINT was one of the most eye-opening topics of the entire semester. Going in, I
 
 ---
 
+[📄 Download Assignment](../files/group/L08 - Group 2 - OSINT Technique Forum.docx)
+
+[📄 Download Assignment](../files/group/L08 Group Activity 2 - OSINT.pptx)
+
 *[Back to Portfolio Home](../README.md)*

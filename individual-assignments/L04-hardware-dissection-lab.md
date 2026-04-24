@@ -20,4 +20,6 @@ This was honestly one of my favorite assignments of the semester because it tapp
 
 ---
 
+[📄 Download Assignment](../files/individual/L04 – Hardware Dissection Lab.pptx)
+
 *[Back to Portfolio Home](../README.md)*

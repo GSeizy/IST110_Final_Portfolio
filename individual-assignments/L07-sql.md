@@ -16,4 +16,6 @@ SQL was one of the topics this semester that I knew I would need to understand f
 
 ---
 
+[📄 Download Assignment](../files/individual/L07 - SQL.docx)
+
 *[Back to Portfolio Home](../README.md)*

@@ -16,4 +16,6 @@ This assignment sat right at the intersection of databases, privacy, and real-wo
 
 ---
 
+[📄 Download Assignment](../files/individual/L07 - CODIS Cold Case.docx)
+
 *[Back to Portfolio Home](../README.md)*

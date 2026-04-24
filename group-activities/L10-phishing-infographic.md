@@ -12,7 +12,7 @@ In this group assignment, we collaboratively designed an infographic that visual
 
 ## Visual
 
-![Phishing Infographic](../assets/L10-phishing-infographic.png)
+*(Add exported PNG of phishing infographic here)*
 
 ## Reflection
 

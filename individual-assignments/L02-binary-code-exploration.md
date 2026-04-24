@@ -16,4 +16,6 @@ This was one of the more satisfying early assignments because it connected direc
 
 ---
 
+[📄 Download Assignment](../files/individual/L02 Activity - Binary Representation.docx)
+
 *[Back to Portfolio Home](../README.md)*

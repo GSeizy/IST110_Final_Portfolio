@@ -1,4 +1,4 @@
-# Group Activity 2: Exploring Open Source Intelligence (OSINT)
+# L08: Exploring Open Source Intelligence (OSINT)
 
 **Module:** L08  
 **Points:** 100  
@@ -8,7 +8,7 @@
 
 ## Description
 
-In this group assignment, we explored the concept of Open Source Intelligence (OSINT) and its techniques. The activity had three parts: each member read about OSINT and shared reflections in a discussion forum, we individually investigated different OSINT techniques such as online searching, social media analysis, and domain research and compiled our findings into a shared document, and finally we collaborated to create a PowerPoint presentation showcasing the techniques we explored and their potential use cases and ethical considerations.
+In this group assignment, we explored the concept of Open Source Intelligence and its techniques. The activity had three parts: each member read about OSINT and shared reflections in a discussion forum, we individually investigated different OSINT techniques such as online searching, social media analysis, and domain research and compiled findings into a shared document, and finally we collaborated to create a PowerPoint presentation showcasing the techniques explored and their potential use cases and ethical considerations.
 
 ## Deliverables
 
@@ -17,7 +17,7 @@ In this group assignment, we explored the concept of Open Source Intelligence (O
 
 ## Reflection
 
-OSINT was one of the most eye-opening topics of the entire semester for me. Going in, I had a vague idea that a lot of personal information was publicly available online, but actually applying specific techniques to find and analyze that information made it much more concrete. The fact that this kind of intelligence gathering is used by cybersecurity professionals, law enforcement, and journalists alike shows how powerful and dual-edged it can be. It reinforced for me why understanding both offensive and defensive sides of information security is so important in this field.
+OSINT was one of the most eye-opening topics of the entire semester. Going in, I had a vague idea that a lot of personal information was publicly available online, but actually applying specific techniques to find and analyze that information made it much more concrete. The fact that this kind of intelligence gathering is used by cybersecurity professionals, law enforcement, and journalists alike shows how powerful and double-edged it can be. It reinforced for me why understanding both offensive and defensive sides of information security is so important in this field.
 
 ---
 

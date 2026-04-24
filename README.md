@@ -5,7 +5,7 @@
 
 Welcome to my IST 110 learning portfolio. This repository documents my work, growth, and reflections from the Spring 2026 semester at Penn State World Campus.
 
-**Student:** Jacob Raposa
+**Student:** Jacob Raposa  
 **Program:** Associate in Science – Information Sciences and Technology (Cybersecurity Focus)  
 **Course:** IST 110 – Information, People & Technology  
 **Semester:** Spring 2026

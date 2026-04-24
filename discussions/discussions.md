@@ -12,7 +12,7 @@ Throughout the semester I completed 11 discussion board posts covering a wide ra
 | 2 | Introduction and IT Disciplines | Introduced myself and explored Information Technology as my chosen discipline, focusing on cybersecurity as my career goal and discussing my strengths in hardware. |
 | 3 | Binary Code Translation | Translated three binary strings into ASCII text and reflected on how binary code forms the foundation of all digital communication. |
 | 4 | Data Analytics Terms | Identified the difference between predictive and prescriptive analytics as my muddiest point, and used a healthcare analogy to help clarify the two concepts. |
-| 5 | Computer Hardware | Used my Xbox 360 vs. my current laptop as a real-world example of hardware evolution, and discussed the growing problem of e-waste and how companies are starting to address it. |
+| 5 | Computer Hardware | Used my childhood Xbox 360 vs. my current laptop as a real-world example of hardware evolution, and discussed the growing problem of e-waste and how companies are starting to address it. |
 | 6 | Operating Systems and Applications | Wrote a love letter to YouTube, reflecting on how it has been a daily part of my life for entertainment, tutorials, and music. |
 | 7 | Programming Languages | Covered the learning curve of machine vs. high-level languages and their roles in modern development, connecting Python and JavaScript to everyday applications. |
 | 8 | Excel Macros | Found a real-world VBA inventory tracking macro and connected it to my warehouse experience, explaining how it automates data organization while discussing its challenges. |
